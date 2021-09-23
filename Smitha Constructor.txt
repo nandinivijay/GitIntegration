@@ -1,0 +1,4 @@
+1.Constructor is a special method with no return type and it is of the same name as Class name.
+2.It is used to initialize the objects/variables in a class.
+3.Types of constructors are Default Constructor and Parameterized constructor.
+4 .Examples of Constructor are Actions class ,WebDriverWait
