@@ -1,0 +1,9 @@
+Constructor in Java is used to initialize the object at the time of its creation.
+It is syntactically similar to the method.
+Constructors do not have any explicit return type.
+If we do not define a constructor explicitly, them java provides  a default constructor where all the instance variables are initialized
+to it's default value.
+There are three types of constructores.
+(i) Default constructor
+(ii) No-argument constructor
+(iii) Parameterized Constructor.
