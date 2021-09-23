@@ -1,4 +1,4 @@
 Use the correct method to print the length of the txt string.
 String txt = "Hello";
 //fill in the blanks
-System.out.println(_____________);
+System.out.println(txt.length____________);
