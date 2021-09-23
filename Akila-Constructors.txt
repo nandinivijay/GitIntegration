@@ -1,0 +1,15 @@
+Akila constructor:
+
+Constructor:
+
+1) Constructor is a special type of Method. It is invoked when an instance of a class is created.
+2)Constructor must have Class name and no return type.
+3)2 types of constructor:
+1.Default constructor : 
+Has no parameters.
+if it is not written in code, it is by default added by java .
+2. Parametersied constructor: 
+Like any other method, constructor can be parameterised. These values passsed as parameters are used to initialize the instance variable.
+4) eG: Actions a=new Actions(driver)
+        Select a=new Select(WebElement)
+5)In page Object model driver is passed among as an parameter to initialize the class instance.
