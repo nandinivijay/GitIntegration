@@ -2,4 +2,8 @@ Convert the value of txt to upper case.
 
 
 String txt = "Hello";
+
 System.out.println(txt.toUpperCase());
+
+System.out.println(______txt.toUppercase()_______);
+
